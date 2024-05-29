@@ -4,7 +4,7 @@ let knex = require("knex")({
     connection : {
         server: 'localhost',
         user : 'root',
-        password: 'nithyashree07@',
+        password: 'xxxx0000@',
         database:'nvdcve' , 
     }
     
